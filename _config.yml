@@ -3,22 +3,22 @@ title: greeCat
 subtitle: 个人站
 description: 
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: greeCat
 # 头像里面的描述
 avatarDesc:
 url: "greecat.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: 
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    #weibo: 
+    #github: 
     # twitter: 
-    mail: leopardpan@icloud.com
+    #mail: 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
