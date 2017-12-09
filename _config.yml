@@ -67,4 +67,6 @@ gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
+#更换为kramdown引擎用于显示latex公式
+mardown: kramdown
 
