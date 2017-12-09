@@ -7,4 +7,4 @@ tag: test
 ~~sdhjgasvdy~~
 
 #测试
-![test](/images/posts/markdown/image1.png "test")
+![test](/images/posts/markdown/image1.png)
